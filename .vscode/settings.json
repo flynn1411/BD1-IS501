@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "192.168.0.21",
+            "port": 8022,
+            "askForPassword": true,
+            "driver": "MariaDB",
+            "name": "BD1",
+            "database": "mysql",
+            "username": "u0_a101"
+        }
+    ]
+}

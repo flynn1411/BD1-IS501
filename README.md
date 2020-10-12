@@ -6,6 +6,11 @@ Códigos realizados durante las clases sincronicas de la clase de Bases de Datos
 
 # Cambios
 
-- *08/10/2020*:
+- ***08/10/2020:***
   
     - Creación del repositorio
+    - Agregado de README.md
+
+- ***10/10/2020:***
+
+    - 
